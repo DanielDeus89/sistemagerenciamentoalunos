@@ -79,5 +79,3 @@ Maria                   | 5.0    | Reprovado
   ```
 
 ---
-
-Se precisar de dicas ou ajuda para começar, é só avisar! Depois de concluir, me mostre o código que você fez para que possamos revisar juntos. 😊
