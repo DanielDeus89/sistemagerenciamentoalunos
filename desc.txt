@@ -1,5 +1,5 @@
+Atividade: Sistema de Gerenciamento de Alunos
 
- Atividade: Sistema de Gerenciamento de Alunos
 Crie um programa em Python que gerencie uma lista de alunos. O programa deve oferecer as seguintes opções:
 
 1. Cadastrar novo aluno:
@@ -10,7 +10,7 @@ Crie um programa em Python que gerencie uma lista de alunos. O programa deve ofe
      {'nome': 'João', 'nota': 8.5, 'aprovado': True}
      ```
      A chave `'aprovado'` será calculada automaticamente (nota maior ou igual a 6).
-\
+
 2. Listar todos os alunos:
    - Mostre uma tabela com o nome, nota e status de aprovação (`Aprovado` ou `Reprovado`).
 
@@ -77,5 +77,3 @@ Maria                   | 5.0    | Reprovado
   ```
 
 ---
-
-Se precisar de dicas ou ajuda para começar, é só avisar! Depois de concluir, me mostre o código que você fez para que possamos revisar juntos. 😊
