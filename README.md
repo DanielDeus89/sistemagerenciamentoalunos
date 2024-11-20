@@ -1,7 +1,6 @@
-﻿# sistemagerenciamentoalunos
+﻿# Sistema Gerenciamento de Alunos
 
- 
- Atividade: Sistema de Gerenciamento de Alunos
+Atividade: Sistema de Gerenciamento de Alunos
 Crie um programa em Python que gerencie uma lista de alunos. O programa deve oferecer as seguintes opções:
 
 1. Cadastrar novo aluno:
